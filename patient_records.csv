@@ -1,16 +1,21 @@
-Date,Patient_ID,Organ,Diagnosis,Confidence,Cost_Est,Tumor_Count,Max_Size_mm,Risk_Level,Notes
-2025-11-19 09:11,niku,Brain,Stage III/IV (Critical),65.2%,₹8L+,,,,
-2025-11-19 09:12,niku,Brain,Stage III/IV (Critical),65.2%,₹8L+,,,,
-2025-11-19 09:13,niku,Brain,Stage III/IV (Critical),87.3%,₹8L+,,,,
-2025-11-19 09:14,niku,Brain,Stage III/IV (Critical),60.2%,₹8L+,,,,
-2025-11-19 09:15,john,Brain,Stage III/IV (Critical),60.2%,₹8L+,,,,
-2025-11-19 09:27,ui,Brain,Stage III/IV (Critical),65.2%,₹8L+,,,,
-2025-11-19 09:30,mk,Brain,Stage III/IV (Critical),53.2%,₹8L+,,,,
-2025-11-19 09:31,RAM SINGH ,Lung,Mass (High Risk),60.4%,₹3L+,,,,
-2025-11-19 09:31,RAM SINGH ,Lung,Mass (High Risk),87.3%,₹3L+,,,,
-2025-11-19 09:32,RAM SINGH ,Lung,Mass (High Risk),87.3%,₹3L+,,,,
-2025-11-19 09:32,RAM SINGH ,Liver,Unknown,87.3%,,,,,
-2025-11-19 09:37,RAM SINGH ,Liver,Unknown,59.9%,,,,,
-2025-11-19 09:37,RAM SINGH ,Brain,Stage III/IV (Critical),59.9%,₹8L+,,,,
-2025-11-19 09:56,dumri,Brain,Stage IV (Advanced),53.2%,₹8L - ₹15L+,1.0,190.3,Critical,serious
-2025-11-19 09:57,Batch_1,Brain,Stage IV (Advanced),53.2%,₹8L - ₹15L+,1.0,190.3,Critical,
+Date,Patient_ID,Organ,Diagnosis,Confidence,Cost_Est,Tumor_Count,Max_Size_mm,Risk_Level,Notes,Radiomics_ID,Quality_Score
+2025-11-19 09:11,niku,Brain,Stage III/IV (Critical),65.2%,₹8L+,,,,,,
+2025-11-19 09:12,niku,Brain,Stage III/IV (Critical),65.2%,₹8L+,,,,,,
+2025-11-19 09:13,niku,Brain,Stage III/IV (Critical),87.3%,₹8L+,,,,,,
+2025-11-19 09:14,niku,Brain,Stage III/IV (Critical),60.2%,₹8L+,,,,,,
+2025-11-19 09:15,john,Brain,Stage III/IV (Critical),60.2%,₹8L+,,,,,,
+2025-11-19 09:27,ui,Brain,Stage III/IV (Critical),65.2%,₹8L+,,,,,,
+2025-11-19 09:30,mk,Brain,Stage III/IV (Critical),53.2%,₹8L+,,,,,,
+2025-11-19 09:31,RAM SINGH ,Lung,Mass (High Risk),60.4%,₹3L+,,,,,,
+2025-11-19 09:31,RAM SINGH ,Lung,Mass (High Risk),87.3%,₹3L+,,,,,,
+2025-11-19 09:32,RAM SINGH ,Lung,Mass (High Risk),87.3%,₹3L+,,,,,,
+2025-11-19 09:32,RAM SINGH ,Liver,Unknown,87.3%,,,,,,,
+2025-11-19 09:37,RAM SINGH ,Liver,Unknown,59.9%,,,,,,,
+2025-11-19 09:37,RAM SINGH ,Brain,Stage III/IV (Critical),59.9%,₹8L+,,,,,,
+2025-11-19 09:56,dumri,Brain,Stage IV (Advanced),53.2%,₹8L - ₹15L+,1.0,190.3,Critical,serious,,
+2025-11-19 09:57,Batch_1,Brain,Stage IV (Advanced),53.2%,₹8L - ₹15L+,1.0,190.3,Critical,,,
+2025-11-19 11:10,dcdcd,Brain,Glioblastoma,48.5%,Calculated,1.0,80.68315124511719,Critical,,dcdcd_20251119_111025,61.1%
+2025-11-19 11:10,dcdcd,Brain,Glioblastoma,36.6%,Calculated,1.0,246.86300659179688,Critical,,dcdcd_20251119_111053,57.4%
+2025-11-19 11:10,dcdcd,Brain,Glioblastoma,36.6%,Calculated,1.0,246.86300659179688,Critical,,dcdcd_20251119_111055,57.4%
+2025-11-19 11:11,dcdcd,Brain,Glioblastoma,50.2%,Calculated,1.0,128.31719970703125,Critical,,dcdcd_20251119_111129,55.2%
+2025-11-19 11:11,dcdcd,Brain,Glioblastoma,50.2%,Calculated,1.0,128.31719970703125,Critical,,dcdcd_20251119_111140,55.2%

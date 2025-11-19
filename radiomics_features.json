@@ -1,1 +1,92 @@
-{}
+{
+  "dcdcd_20251119_111025": {
+    "patient_id": "dcdcd",
+    "date": "2025-11-19T11:10:25.024987",
+    "features": [
+      {
+        "mean_intensity": 86.34282173424732,
+        "std_intensity": 61.49174943138057,
+        "skewness": 0.3808205304936473,
+        "kurtosis": 2.6399919253478856,
+        "entropy": -195083.71905210696,
+        "area": 25821,
+        "perimeter": 644,
+        "sphericity": 0.06225888275915279,
+        "aspect_ratio": 0.8830409356719983,
+        "homogeneity": 95.87149994190739
+      }
+    ]
+  },
+  "dcdcd_20251119_111053": {
+    "patient_id": "dcdcd",
+    "date": "2025-11-19T11:10:53.558485",
+    "features": [
+      {
+        "mean_intensity": 106.21768196468139,
+        "std_intensity": 89.89111202353067,
+        "skewness": 0.6093709924611941,
+        "kurtosis": 1.9983467965982227,
+        "entropy": -2672737.2528431322,
+        "area": 238288,
+        "perimeter": 1972,
+        "sphericity": 0.061275709836288154,
+        "aspect_ratio": 0.7544483985763781,
+        "homogeneity": 72.79719918753774
+      }
+    ]
+  },
+  "dcdcd_20251119_111055": {
+    "patient_id": "dcdcd",
+    "date": "2025-11-19T11:10:55.629451",
+    "features": [
+      {
+        "mean_intensity": 106.21768196468139,
+        "std_intensity": 89.89111202353067,
+        "skewness": 0.6093709924611941,
+        "kurtosis": 1.9983467965982227,
+        "entropy": -2672737.2528431322,
+        "area": 238288,
+        "perimeter": 1972,
+        "sphericity": 0.061275709836288154,
+        "aspect_ratio": 0.7544483985763781,
+        "homogeneity": 72.79719918753774
+      }
+    ]
+  },
+  "dcdcd_20251119_111129": {
+    "patient_id": "dcdcd",
+    "date": "2025-11-19T11:11:29.439765",
+    "features": [
+      {
+        "mean_intensity": 121.24696726939803,
+        "std_intensity": 56.60370264968941,
+        "skewness": 0.02873113423764313,
+        "kurtosis": 2.7956324596149114,
+        "entropy": -570862.3555609062,
+        "area": 65535,
+        "perimeter": 1024,
+        "sphericity": 0.062499046325683594,
+        "aspect_ratio": 1.0078431372545067,
+        "homogeneity": 84.51087205310127
+      }
+    ]
+  },
+  "dcdcd_20251119_111140": {
+    "patient_id": "dcdcd",
+    "date": "2025-11-19T11:11:40.551005",
+    "features": [
+      {
+        "mean_intensity": 121.24696726939803,
+        "std_intensity": 56.60370264968941,
+        "skewness": 0.02873113423764313,
+        "kurtosis": 2.7956324596149114,
+        "entropy": -570862.3555609062,
+        "area": 65535,
+        "perimeter": 1024,
+        "sphericity": 0.062499046325683594,
+        "aspect_ratio": 1.0078431372545067,
+        "homogeneity": 84.51087205310127
+      }
+    ]
+  }
+}
