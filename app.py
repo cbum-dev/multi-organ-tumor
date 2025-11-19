@@ -619,7 +619,7 @@ theme = gr.themes.Soft(
     font=[gr.themes.GoogleFont("Inter"), "system-ui"]
 )
 
-with gr.Blocks(theme=theme, title="OncoVision AI Ultra") as app:
+with gr.Blocks(theme=theme, css="footer {display: none !important}", title="OncoVision AI Ultra") as app:
     gr.Markdown("# 🏥 OncoVision AI Ultra\n### Next-Generation Medical AI with Advanced Analytics")
     
     with gr.Tabs():
