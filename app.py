@@ -634,10 +634,10 @@ with gr.Blocks(theme=theme, title="OncoVision AI Ultra") as app:
                     img_input = gr.Image(type="numpy", label="Medical Scan")
                     
                     gr.Markdown("### ⚙️ Advanced Settings")
-                    conf = gr.Slider(0.1, 0.9, value=0.45, step=0.05, label="Detection Sensitivity")
-                    ensemble = gr.Checkbox(label="Ensemble Prediction", value=False)
-                    preprocess = gr.Checkbox(label="Medical-Grade Preprocessing (CLAHE) (May be innacurate in some cases.)", value=True)
-                    uncertainty = gr.Checkbox(label="Uncertainty Quantification (Monte Carlo)", value=False)
+                    conf = gr.Slider(0.1, 0.9, value=0.15, step=0.05, label="Detection Sensitivity")
+                    ensemble = gr.Checkbox(label="Ensemble Prediction", value=True)
+                    preprocess = gr.Checkbox(label="Medical-Grade Preprocessing (CLAHE) (May be innacurate in some cases.)", value=False)
+                    uncertainty = gr.Checkbox(label="Uncertainty Quantification (Monte Carlo)", value=True)
                     notes = gr.Textbox(label="Clinical Notes", lines=3)
                     
                     analyze_btn = gr.Button("🚀 Run Ultra Analysis", variant="primary", size="lg")
