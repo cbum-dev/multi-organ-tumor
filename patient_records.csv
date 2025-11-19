@@ -1,0 +1,6 @@
+Date,Patient_ID,Organ,Diagnosis,Confidence,Cost_Est
+2025-11-19 09:11,niku,Brain,Stage III/IV (Critical),65.2%,₹8L+
+2025-11-19 09:12,niku,Brain,Stage III/IV (Critical),65.2%,₹8L+
+2025-11-19 09:13,niku,Brain,Stage III/IV (Critical),87.3%,₹8L+
+2025-11-19 09:14,niku,Brain,Stage III/IV (Critical),60.2%,₹8L+
+2025-11-19 09:15,john,Brain,Stage III/IV (Critical),60.2%,₹8L+

@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../backend"
+		},
+		{
+			"path": "../website"
+		},
+		{
+			"path": "../../MultiOrgan_Final_Submission_Repo_Android 2/backend"
+		},
+		{
+			"path": "../../MultiOrgan_Final_Submission_Repo_Android 2/app"
+		}
+	],
+	"settings": {}
+}
