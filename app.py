@@ -1117,4 +1117,4 @@ with gr.Blocks(theme=theme, css="footer {display: none !important}", title="Onco
         outputs=[img_out, status_out, details_out, ddx_out, treatment_out, quality_out, uncertainty_out]
     )
 
-app.launch(show_api=False, share=False)
+app.launch(show_api=True, share=False, server_port=7860)
