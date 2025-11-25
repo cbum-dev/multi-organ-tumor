@@ -129,7 +129,7 @@ const OncoVisionLanding = () => {
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-6">
               <a 
-                href="http://localhost:7860" 
+                href="https://huggingface.co/spaces/priyanshu200223/multi-organ-tumor-detection" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="group relative inline-flex items-center space-x-2 bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-500 hover:to-cyan-500 px-8 py-4 rounded-xl font-semibold transition-all duration-300 shadow-lg shadow-blue-500/50 hover:shadow-xl hover:shadow-blue-500/70 hover:scale-105"
@@ -332,7 +332,7 @@ const OncoVisionLanding = () => {
               Launch the OncoVision AI Ultra scanner and start analyzing medical images with unprecedented precision.
             </p>
             <a 
-              href="http://localhost:7860" 
+              href="https://huggingface.co/spaces/priyanshu200223/multi-organ-tumor-detection" 
               target="_blank" 
               rel="noopener noreferrer"
               className="group inline-flex items-center space-x-2 bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-500 hover:to-cyan-500 px-10 py-5 rounded-xl font-semibold text-lg transition-all duration-300 shadow-2xl shadow-blue-500/50 hover:shadow-blue-500/70 hover:scale-105"
