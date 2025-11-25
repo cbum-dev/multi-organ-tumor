@@ -19,3 +19,10 @@ Date,Patient_ID,Organ,Diagnosis,Confidence,Cost_Est,Tumor_Count,Max_Size_mm,Risk
 2025-11-19 11:10,dcdcd,Brain,Glioblastoma,36.6%,Calculated,1.0,246.86300659179688,Critical,,dcdcd_20251119_111055,57.4%
 2025-11-19 11:11,dcdcd,Brain,Glioblastoma,50.2%,Calculated,1.0,128.31719970703125,Critical,,dcdcd_20251119_111129,55.2%
 2025-11-19 11:11,dcdcd,Brain,Glioblastoma,50.2%,Calculated,1.0,128.31719970703125,Critical,,dcdcd_20251119_111140,55.2%
+2025-11-24 12:45,Batch_1,Brain,Glioblastoma,43.3%,Calculated,2.0,270.5770263671875,Critical,Batch scan 1,Batch_1_20251124_124512,50.6%
+2025-11-24 12:45,Batch_1,Brain,Glioblastoma,43.3%,Calculated,2.0,270.5770263671875,Critical,Batch scan 1,Batch_1_20251124_124520,50.6%
+2025-11-24 12:45,Batch_1,Brain,Glioblastoma,67.5%,Calculated,1.0,237.26296997070312,Critical,Batch scan 1,Batch_1_20251124_124522,50.6%
+2025-11-24 12:45,Batch_2,Brain,Glioblastoma,85.2%,Calculated,1.0,172.30392456054688,Critical,Batch scan 2,Batch_2_20251124_124522,50.3%
+2025-11-24 12:45,Batch_3,Brain,Glioblastoma,38.5%,Calculated,2.0,113.64674377441406,Critical,Batch scan 3,Batch_3_20251124_124522,56.2%
+2025-11-24 12:45,Batch_4,Brain,Metastasis,92.8%,Calculated,5.0,51.44034576416016,Critical,Batch scan 4,Batch_4_20251124_124523,56.4%
+2025-11-24 12:45,Batch_5,Brain,Metastasis,61.5%,Calculated,6.0,41.48250961303711,Critical,Batch scan 5,Batch_5_20251124_124523,47.9%

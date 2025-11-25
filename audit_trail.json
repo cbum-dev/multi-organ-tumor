@@ -1024,5 +1024,371 @@
     "event": "ANALYSIS_START",
     "patient_id": "",
     "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:41:52.857372",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:42:21.906186",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:42:27.691517",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:42:46.055646",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:42:57.792523",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:43:06.518468",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:44:05.528087",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:44:09.381821",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:06.323613",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_1",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:06.496332",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_2",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:06.634412",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_3",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:06.781068",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_4",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:06.936388",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_5",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:07.104427",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_6",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:12.528975",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_1",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:12.795498",
+    "event": "ANALYSIS_COMPLETE",
+    "patient_id": "Batch_1",
+    "details": "Detected 2 lesions, Risk: Critical"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:12.802169",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_2",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:12.941086",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_3",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:13.081180",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_4",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:13.259337",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_5",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:13.445192",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_6",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:19.831084",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_1",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:20.078701",
+    "event": "ANALYSIS_COMPLETE",
+    "patient_id": "Batch_1",
+    "details": "Detected 2 lesions, Risk: Critical"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:20.086623",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_2",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:20.225976",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_3",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:20.365774",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_4",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:20.542444",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_5",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:20.729450",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_6",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:22.354586",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_1",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:22.581459",
+    "event": "ANALYSIS_COMPLETE",
+    "patient_id": "Batch_1",
+    "details": "Detected 1 lesions, Risk: Critical"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:22.587281",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_2",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:22.780510",
+    "event": "ANALYSIS_COMPLETE",
+    "patient_id": "Batch_2",
+    "details": "Detected 1 lesions, Risk: Critical"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:22.784701",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_3",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:22.965827",
+    "event": "ANALYSIS_COMPLETE",
+    "patient_id": "Batch_3",
+    "details": "Detected 2 lesions, Risk: Critical"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:22.974159",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_4",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:23.211895",
+    "event": "ANALYSIS_COMPLETE",
+    "patient_id": "Batch_4",
+    "details": "Detected 5 lesions, Risk: Critical"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:23.218427",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_5",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:23.460898",
+    "event": "ANALYSIS_COMPLETE",
+    "patient_id": "Batch_5",
+    "details": "Detected 6 lesions, Risk: Critical"
+  },
+  {
+    "timestamp": "2025-11-24T12:45:23.465868",
+    "event": "ANALYSIS_START",
+    "patient_id": "Batch_6",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T23:26:00.284687",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-24T23:27:22.052039",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:44:42.527946",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:44:56.050006",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:45:02.944103",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:45:07.988340",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:45:13.327926",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:45:20.334835",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:45:26.188474",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:45:30.837164",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:45:39.034161",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:45:45.080993",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:45:57.201655",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:46:00.127994",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:46:07.399955",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:46:14.378711",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:46:19.666766",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:46:25.370801",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:46:30.217428",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:47:15.229659",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:47:23.140808",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
+  },
+  {
+    "timestamp": "2025-11-25T08:47:32.823206",
+    "event": "ANALYSIS_START",
+    "patient_id": "",
+    "details": "Organ: Brain"
   }
 ]

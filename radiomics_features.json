@@ -88,5 +88,275 @@
         "homogeneity": 84.51087205310127
       }
     ]
+  },
+  "Batch_1_20251124_124512": {
+    "patient_id": "Batch_1",
+    "date": "2025-11-24T12:45:12.777138",
+    "features": [
+      {
+        "mean_intensity": 73.99827442191416,
+        "std_intensity": 55.13603051785144,
+        "skewness": 0.7327118667510756,
+        "kurtosis": 3.380729242024736,
+        "entropy": -3193023.396940723,
+        "area": 290917,
+        "perimeter": 2164,
+        "sphericity": 0.0621233100201243,
+        "aspect_ratio": 0.8559176672382751,
+        "homogeneity": 100.48622803067538
+      },
+      {
+        "mean_intensity": 75.23953862848741,
+        "std_intensity": 54.864392745986294,
+        "skewness": 0.724098747323215,
+        "kurtosis": 3.399793314158368,
+        "entropy": -3121432.6188318757,
+        "area": 285670,
+        "perimeter": 2146,
+        "sphericity": 0.06203048824445489,
+        "aspect_ratio": 0.8404802744423944,
+        "homogeneity": 101.4738579479819
+      }
+    ]
+  },
+  "Batch_1_20251124_124520": {
+    "patient_id": "Batch_1",
+    "date": "2025-11-24T12:45:20.071605",
+    "features": [
+      {
+        "mean_intensity": 73.99827442191416,
+        "std_intensity": 55.13603051785144,
+        "skewness": 0.7327118667510756,
+        "kurtosis": 3.380729242024736,
+        "entropy": -3193023.396940723,
+        "area": 290917,
+        "perimeter": 2164,
+        "sphericity": 0.0621233100201243,
+        "aspect_ratio": 0.8559176672382751,
+        "homogeneity": 100.48622803067538
+      },
+      {
+        "mean_intensity": 75.23953862848741,
+        "std_intensity": 54.864392745986294,
+        "skewness": 0.724098747323215,
+        "kurtosis": 3.399793314158368,
+        "entropy": -3121432.6188318757,
+        "area": 285670,
+        "perimeter": 2146,
+        "sphericity": 0.06203048824445489,
+        "aspect_ratio": 0.8404802744423944,
+        "homogeneity": 101.4738579479819
+      }
+    ]
+  },
+  "Batch_1_20251124_124522": {
+    "patient_id": "Batch_1",
+    "date": "2025-11-24T12:45:22.573774",
+    "features": [
+      {
+        "mean_intensity": 81.70534546120287,
+        "std_intensity": 49.72027895675213,
+        "skewness": 0.7938476581104285,
+        "kurtosis": 4.080531117853964,
+        "entropy": -2382246.234095308,
+        "area": 223947,
+        "perimeter": 1896,
+        "sphericity": 0.06229720797949047,
+        "aspect_ratio": 0.8922155688620974,
+        "homogeneity": 108.08388145409401
+      }
+    ]
+  },
+  "Batch_2_20251124_124522": {
+    "patient_id": "Batch_2",
+    "date": "2025-11-24T12:45:22.772853",
+    "features": [
+      {
+        "mean_intensity": 109.4265858627715,
+        "std_intensity": 68.50162256714393,
+        "skewness": 0.15118661522359966,
+        "kurtosis": 2.4602586253199514,
+        "entropy": -1103498.1292822894,
+        "area": 115836,
+        "perimeter": 1376,
+        "sphericity": 0.06117960722011898,
+        "aspect_ratio": 0.7461928934008258,
+        "homogeneity": 91.26658379087668
+      }
+    ]
+  },
+  "Batch_3_20251124_124522": {
+    "patient_id": "Batch_3",
+    "date": "2025-11-24T12:45:22.958108",
+    "features": [
+      {
+        "mean_intensity": 72.225,
+        "std_intensity": 13.724954462583836,
+        "skewness": 1.7987961043557303,
+        "kurtosis": 6.85041168440566,
+        "entropy": -234.30995584261305,
+        "area": 120,
+        "perimeter": 44,
+        "sphericity": 0.06198347107437696,
+        "aspect_ratio": 0.8333333333263889,
+        "homogeneity": 105.62499999991198
+      },
+      {
+        "mean_intensity": 74.92897003636081,
+        "std_intensity": 55.83915220076433,
+        "skewness": 0.8478859039177105,
+        "kurtosis": 4.396081082236039,
+        "entropy": -465276.19320987165,
+        "area": 51429,
+        "perimeter": 908,
+        "sphericity": 0.062378709076442385,
+        "aspect_ratio": 1.0921658986170082,
+        "homogeneity": 92.6140893270332
+      }
+    ]
+  },
+  "Batch_4_20251124_124523": {
+    "patient_id": "Batch_4",
+    "date": "2025-11-24T12:45:23.202210",
+    "features": [
+      {
+        "mean_intensity": 57.446042431660544,
+        "std_intensity": 46.38420130394058,
+        "skewness": 0.7581874212163457,
+        "kurtosis": 3.083427101341273,
+        "entropy": -65639.46878488758,
+        "area": 9804,
+        "perimeter": 410,
+        "sphericity": 0.05832242712671026,
+        "aspect_ratio": 0.5891472868212487,
+        "homogeneity": 120.06252549979477
+      },
+      {
+        "mean_intensity": 75.4896651508888,
+        "std_intensity": 32.902196956171366,
+        "skewness": 0.23371859295969394,
+        "kurtosis": 3.4753949927513395,
+        "entropy": -25549.563625784976,
+        "area": 4838,
+        "perimeter": 282,
+        "sphericity": 0.06083698003118548,
+        "aspect_ratio": 0.7195121951210738,
+        "homogeneity": 111.53927242662026
+      },
+      {
+        "mean_intensity": 78.62535211267605,
+        "std_intensity": 25.67254091963596,
+        "skewness": -0.1403046859072322,
+        "kurtosis": 2.261713050721891,
+        "entropy": -5534.87510957533,
+        "area": 1420,
+        "perimeter": 182,
+        "sphericity": 0.042869218693394384,
+        "aspect_ratio": 0.28169014084467364,
+        "homogeneity": 110.20845070421758
+      },
+      {
+        "mean_intensity": 71.79004329004329,
+        "std_intensity": 38.82967675590183,
+        "skewness": 0.6119130240881104,
+        "kurtosis": 3.601531206158338,
+        "entropy": -7015.147600148382,
+        "area": 1848,
+        "perimeter": 178,
+        "sphericity": 0.05832596894331506,
+        "aspect_ratio": 0.5892857142846619,
+        "homogeneity": 112.77489177488567
+      },
+      {
+        "mean_intensity": 67.57422068283029,
+        "std_intensity": 42.42018507013204,
+        "skewness": -0.07191995286652571,
+        "kurtosis": 1.5133481953999075,
+        "entropy": -20877.067473481235,
+        "area": 4042,
+        "perimeter": 266,
+        "sphericity": 0.057125897450392815,
+        "aspect_ratio": 0.5465116279063412,
+        "homogeneity": 106.41439881246644
+      }
+    ]
+  },
+  "Batch_5_20251124_124523": {
+    "patient_id": "Batch_5",
+    "date": "2025-11-24T12:45:23.452314",
+    "features": [
+      {
+        "mean_intensity": 50.071123755334284,
+        "std_intensity": 27.427790721421303,
+        "skewness": 0.282285158286837,
+        "kurtosis": 1.6868349907071505,
+        "entropy": -6254.972068512008,
+        "area": 1406,
+        "perimeter": 150,
+        "sphericity": 0.062488888888888615,
+        "aspect_ratio": 1.0270270270242512,
+        "homogeneity": 122.39971550496995
+      },
+      {
+        "mean_intensity": 61.553002450980394,
+        "std_intensity": 17.40528316105948,
+        "skewness": -1.2306881819621731,
+        "kurtosis": 3.609714488322517,
+        "entropy": -19726.694588509592,
+        "area": 3264,
+        "perimeter": 232,
+        "sphericity": 0.06064209274672997,
+        "aspect_ratio": 0.7058823529401383,
+        "homogeneity": 114.461090686271
+      },
+      {
+        "mean_intensity": 65.62457912457913,
+        "std_intensity": 53.94119576577496,
+        "skewness": 1.6172962043955201,
+        "kurtosis": 4.868739694404777,
+        "entropy": -36857.80883354756,
+        "area": 6534,
+        "perimeter": 330,
+        "sphericity": 0.05999999999999994,
+        "aspect_ratio": 1.4999999999977272,
+        "homogeneity": 108.41796755432954
+      },
+      {
+        "mean_intensity": 42.248360655737706,
+        "std_intensity": 28.665349316045514,
+        "skewness": 1.0200361533442803,
+        "kurtosis": 4.252087583033476,
+        "entropy": -11613.623863915458,
+        "area": 2440,
+        "perimeter": 202,
+        "sphericity": 0.05979805901382203,
+        "aspect_ratio": 1.5249999999961874,
+        "homogeneity": 104.64590163933997
+      },
+      {
+        "mean_intensity": 69.98126951092613,
+        "std_intensity": 16.899767648323518,
+        "skewness": 1.3825338593738155,
+        "kurtosis": 4.502601745346741,
+        "entropy": -4070.0505007272786,
+        "area": 961,
+        "perimeter": 124,
+        "sphericity": 0.06249999999999959,
+        "aspect_ratio": 0.9999999999967742,
+        "homogeneity": 109.33194588968685
+      },
+      {
+        "mean_intensity": 63.74770258980785,
+        "std_intensity": 19.781424798771244,
+        "skewness": -0.48461489992593554,
+        "kurtosis": 2.3824051773343546,
+        "entropy": -4922.991492064102,
+        "area": 1197,
+        "perimeter": 156,
+        "sphericity": 0.04918639053254418,
+        "aspect_ratio": 0.3684210526309326,
+        "homogeneity": 118.04511278194502
+      }
+    ]
   }
 }
